@@ -18,7 +18,7 @@ unless defined? FILES
 end
 
 Gem::Specification.new do |spec|
-  spec.name = "ruby-debug-base19x"
+  spec.name = "ruby-debug-base19"
 
   spec.homepage = "https://github.com/tribune/ruby-debug-base19"
   spec.summary = "Fast Ruby debugger - core component"

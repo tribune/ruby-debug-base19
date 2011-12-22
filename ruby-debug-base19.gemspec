@@ -29,7 +29,7 @@ provides support that front-ends can build on. It provides breakpoint
 handling, bindings for stack frames among other things.
 EOF
 
-  spec.version = RUBY_DEBUG_VERSION
+  spec.version = '0.11.26'
 
   spec.author = "Kent Sibilev, Mark Moseley"
   spec.email = "ksibilev@yahoo.com"
